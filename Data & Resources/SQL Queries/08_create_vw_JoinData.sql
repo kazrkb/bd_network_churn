@@ -1,4 +1,5 @@
-CREATE VIEW bd_churn.vw_JoinData AS
+CREATE OR REPLACE VIEW bd_churn.vw_JoinData AS
 SELECT * 
-FROM bd_churn.prod_customer_data 
+FROM bd_churn.customer_data 
 WHERE Customer_Status = 'Joined';
+

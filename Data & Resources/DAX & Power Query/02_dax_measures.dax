@@ -1,0 +1,20 @@
+// --------------------------------------------------------
+// DAX Measures for Summary Page
+// --------------------------------------------------------
+
+Total Customers = COUNT(prod_Churn[Customer_ID])
+
+New Joiners = CALCULATE(COUNT(prod_Churn[Customer_ID]), prod_Churn[Customer_Status] = "Joined")
+
+Total Churn = SUM(prod_Churn[Churn Status])
+
+Churn Rate = [Total Churn] / [Total Customers]
+
+
+// --------------------------------------------------------
+// DAX Measures for Churn Prediction Page
+// --------------------------------------------------------
+
+Count Predicted Churner = COUNT(Predictions[Customer_ID]) + 0
+
+Title Predicted Churners = "COUNT OF PREDICTED CHURNERS : " & COUNT(Predictions[Customer_ID])

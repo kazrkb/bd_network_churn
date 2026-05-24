@@ -1400,7 +1400,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 69335-KHU,Female,45,Yes,Khulna,15,1,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,No,Month-to-Month,Yes,Credit Card,712.5,22561.12,0.0,450.0,2559.15,25570.27,Stayed,Not Applicable,Not Applicable
 28551-DHK,Male,81,No,Dhaka,2,8,No Deal,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,780.75,23408.25,0.0,0.0,9434.25,32842.5,Stayed,Not Applicable,Not Applicable
 17309-BAR,Male,53,Yes,Barishal,8,25,Deal 3,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,416.62,10539.75,0.0,0.0,2175.0,12714.75,Stayed,Not Applicable,Not Applicable
-33334-BAR,Female,27,No,Barishal,1,12,No Deal,No,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,265.88,801.38,0.0,0.0,0.0,801.38,Churned,Other,Moved
 65598-RAJ,Male,37,Yes,Rajshahi,14,17,No Deal,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,380.25,1134.75,0.0,0.0,294.3,1429.05,Churned,Other,Don't know
 84508-KHU,Female,28,Yes,Khulna,11,28,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,158.25,158.25,0.0,0.0,141.07,299.32,Joined,Not Applicable,Not Applicable
 81485-MYM,Female,61,Yes,Mymensingh,8,26,Deal 4,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,673.5,8468.25,0.0,0.0,1081.5,9549.75,Churned,Attitude,Attitude of support person
@@ -1556,7 +1555,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 41128-CTG,Male,42,Yes,Chattogram,13,29,No Deal,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,670.88,10726.88,0.0,0.0,3807.6,14534.48,Churned,Attitude,Attitude of support person
 16806-RAN,Female,25,No,Rangpur,7,2,Deal 1,No,No,Yes,Mobile Broadband,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,417.38,29100.38,0.0,0.0,0.0,29100.38,Stayed,Not Applicable,Not Applicable
 23249-BAR,Male,59,No,Barishal,13,12,No Deal,No,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,One Year,No,Credit Card,248.62,3335.62,0.0,0.0,0.0,3335.62,Stayed,Not Applicable,Not Applicable
-31546-RAJ,Male,31,No,Rajshahi,15,5,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,149.25,149.25,0.0,0.0,56.18,205.43,Churned,Attitude,Attitude of service provider
 77144-KHU,Female,45,Yes,Khulna,5,12,No Deal,No,No,Yes,Mobile Broadband,No,No,Yes,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,333.38,8878.5,0.0,0.0,0.0,8878.5,Stayed,Not Applicable,Not Applicable
 27021-RAJ,Female,33,Yes,Rajshahi,14,36,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,146.25,3023.62,0.0,0.0,5811.0,8834.62,Stayed,Not Applicable,Not Applicable
 43464-MYM,Female,46,Yes,Mymensingh,4,2,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,144.75,1087.12,0.0,0.0,384.3,1471.42,Stayed,Not Applicable,Not Applicable
@@ -2205,7 +2203,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 61760-KHU,Female,31,No,Khulna,0,4,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Mobile Banking (bKash/Nagad),739.12,15239.62,0.0,0.0,3483.0,18722.62,Stayed,Not Applicable,Not Applicable
 46143-CTG,Male,30,No,Chattogram,0,6,No Deal,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,528.0,9105.38,0.0,0.0,1744.2,10849.57,Churned,Competitor,Competitor had better devices
 65958-DHK,Female,66,Yes,Dhaka,15,26,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,157.5,8304.0,0.0,0.0,11037.0,19341.0,Stayed,Not Applicable,Not Applicable
-55786-BAR,Female,26,Yes,Barishal,7,8,No Deal,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,190.12,1901.25,0.0,0.0,2727.75,4629.0,Stayed,Not Applicable,Not Applicable
 42002-RAN,Female,18,No,Rangpur,14,4,No Deal,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,Yes,Yes,Yes,One Year,No,Bank Withdrawal,702.75,43955.25,0.0,0.0,4671.07,48626.33,Stayed,Not Applicable,Not Applicable
 29539-BAR,Male,62,Yes,Barishal,6,4,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,708.38,5572.12,0.0,0.0,312.6,5884.73,Churned,Competitor,Competitor had better devices
 97263-DHK,Female,73,No,Dhaka,13,2,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Two Year,No,Credit Card,668.25,47643.0,0.0,0.0,13197.6,60840.6,Stayed,Not Applicable,Not Applicable
@@ -2653,7 +2650,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 16837-DHK,Female,43,Yes,Dhaka,15,18,Deal 4,No,No,Yes,Mobile Broadband,No,No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Credit Card,266.25,4145.25,0.0,600.0,0.0,4745.25,Stayed,Not Applicable,Not Applicable
 56802-BAR,Female,22,Yes,Barishal,15,2,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,156.75,1852.5,0.0,0.0,929.25,2781.75,Stayed,Not Applicable,Not Applicable
 39394-RAJ,Female,47,No,Rajshahi,10,12,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,496.5,35194.12,0.0,0.0,19718.48,54912.6,Stayed,Not Applicable,Not Applicable
-91259-RAJ,Female,55,Yes,Rajshahi,1,8,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,717.38,12300.0,0.0,0.0,2695.35,14995.35,Stayed,Not Applicable,Not Applicable
 31235-DHK,Female,31,Yes,Dhaka,14,1,No Deal,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,591.75,2248.12,277.57,0.0,1257.9,3228.45,Stayed,Not Applicable,Not Applicable
 25658-SYL,Female,52,Yes,Sylhet,11,2,No Deal,Yes,Yes,Yes,Mobile Broadband,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,562.12,12828.38,0.0,0.0,4968.0,17796.38,Churned,Competitor,Competitor made better offer
 36521-KHU,Male,28,No,Khulna,12,24,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,793.12,31714.12,0.0,0.0,6660.0,38374.12,Stayed,Not Applicable,Not Applicable
@@ -3074,7 +3070,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 87853-DHK,Female,24,No,Dhaka,1,8,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,541.88,19264.12,0.0,0.0,6633.38,25897.5,Churned,Other,Don't know
 32883-SYL,Female,22,No,Sylhet,7,5,Deal 4,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,432.38,7445.25,0.0,0.0,2363.85,9809.1,Stayed,Not Applicable,Not Applicable
 43443-DHK,Male,38,Yes,Dhaka,2,16,No Deal,Yes,Yes,Yes,Mobile Broadband,No,Yes,No,Yes,No,No,No,Yes,Two Year,No,Credit Card,447.75,10606.5,0.0,0.0,2378.78,12985.27,Stayed,Not Applicable,Not Applicable
-99942-RAJ,Male,59,Yes,Rajshahi,8,18,No Deal,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,522.75,522.75,0.0,0.0,161.4,684.15,Churned,Attitude,Attitude of service provider
 62337-SYL,Female,69,Yes,Sylhet,12,35,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,518.25,24415.12,0.0,0.0,5533.8,29948.92,Stayed,Not Applicable,Not Applicable
 76475-BAR,Female,20,Yes,Barishal,14,7,Deal 3,No,No,Yes,Mobile Broadband,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,268.12,7668.75,0.0,0.0,0.0,7668.75,Stayed,Not Applicable,Not Applicable
 42517-DHK,Female,46,Yes,Dhaka,7,12,No Deal,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,562.12,6116.25,0.0,0.0,2082.3,8198.55,Churned,Attitude,Attitude of support person
@@ -3159,7 +3154,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 32696-DHK,Female,49,Yes,Dhaka,0,10,No Deal,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,608.25,608.25,0.0,0.0,171.45,779.7,Churned,Competitor,Competitor offered more data
 85472-CTG,Female,30,Yes,Chattogram,11,5,No Deal,Yes,No,Yes,Mobile Broadband,No,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,498.75,20720.62,0.0,0.0,10949.4,31670.03,Stayed,Not Applicable,Not Applicable
 88110-BAR,Female,22,Yes,Barishal,9,10,Deal 4,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,150.75,2389.5,0.0,0.0,5670.0,8059.5,Stayed,Not Applicable,Not Applicable
-71631-KHU,Female,38,Yes,Khulna,13,32,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,831.0,54344.25,0.0,0.0,22039.88,76384.12,Stayed,Not Applicable,Not Applicable
 56352-DHK,Male,67,No,Dhaka,8,2,No Deal,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,682.5,13946.25,0.0,0.0,5827.5,19773.75,Stayed,Not Applicable,Not Applicable
 24262-CTG,Male,61,Yes,Chattogram,2,36,Deal 3,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,667.12,22707.38,0.0,0.0,11790.9,34498.28,Stayed,Not Applicable,Not Applicable
 52218-SYL,Male,38,Yes,Sylhet,1,13,Deal 4,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,153.38,3536.62,0.0,0.0,3428.7,6965.33,Stayed,Not Applicable,Not Applicable
@@ -3212,7 +3206,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 69874-RAJ,Female,60,No,Rajshahi,10,11,No Deal,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,No,Month-to-Month,No,Bank Withdrawal,657.0,20431.88,0.0,525.0,9513.9,30470.78,Stayed,Not Applicable,Not Applicable
 77079-CTG,Female,55,Yes,Chattogram,4,18,Deal 1,Yes,Yes,Yes,Mobile Broadband,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,674.25,48428.62,0.0,0.0,16683.22,65111.85,Stayed,Not Applicable,Not Applicable
 27121-RAJ,Male,79,Yes,Rajshahi,3,9,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,764.25,39491.25,0.0,0.0,5433.75,44925.0,Stayed,Not Applicable,Not Applicable
-11540-DHK,Female,50,Yes,Dhaka,6,20,Deal 2,No,No,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,346.5,18239.62,0.0,0.0,0.0,18239.62,Stayed,Not Applicable,Not Applicable
 23132-BAR,Female,36,Yes,Barishal,0,15,No Deal,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,391.5,391.5,0.0,0.0,255.3,646.8,Churned,Competitor,Competitor made better offer
 86846-CTG,Female,68,Yes,Chattogram,2,28,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,417.0,4356.0,114.0,0.0,231.82,4473.82,Stayed,Not Applicable,Not Applicable
 75790-DHK,Male,55,Yes,Dhaka,14,35,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,807.0,51845.25,0.0,0.0,16098.3,67943.55,Stayed,Not Applicable,Not Applicable
@@ -3253,7 +3246,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 86594-SYL,Female,40,No,Sylhet,4,21,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Mobile Banking (bKash/Nagad),597.0,30181.5,0.0,0.0,18168.75,48350.25,Stayed,Not Applicable,Not Applicable
 88115-SYL,Female,27,No,Sylhet,13,23,Deal 4,No,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,268.5,2723.62,0.0,0.0,0.0,2723.62,Stayed,Not Applicable,Not Applicable
 16932-BAR,Female,18,No,Barishal,15,5,Deal 1,Yes,Yes,Yes,Mobile Broadband,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,689.62,49611.75,0.0,0.0,14634.0,64245.75,Stayed,Not Applicable,Not Applicable
-78253-RAN,Male,56,Yes,Rangpur,11,26,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mobile Banking (bKash/Nagad),147.38,756.75,0.0,0.0,697.5,1454.25,Stayed,Not Applicable,Not Applicable
 69876-DHK,Female,51,Yes,Dhaka,0,10,No Deal,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,636.0,28969.12,0.0,0.0,13256.1,42225.22,Churned,Attitude,Attitude of support person
 15115-CTG,Male,37,Yes,Chattogram,0,15,No Deal,Yes,Yes,Yes,Mobile Broadband,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,-75.0,45706.88,24.0,0.0,6544.8,52227.67,Stayed,Not Applicable,Not Applicable
 41619-KHU,Female,33,Yes,Khulna,1,35,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,715.5,33339.75,0.0,0.0,1494.0,34833.75,Stayed,Not Applicable,Not Applicable
@@ -3361,7 +3353,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 89024-DHK,Female,78,Yes,Dhaka,2,28,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,No,Yes,No,Yes,Two Year,No,Bank Withdrawal,549.38,30406.5,128.7,0.0,15666.0,45943.8,Stayed,Not Applicable,Not Applicable
 15681-DHK,Female,55,Yes,Dhaka,2,26,No Deal,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,637.88,25167.38,286.12,0.0,4323.0,29204.25,Stayed,Not Applicable,Not Applicable
 37569-RAJ,Male,34,Yes,Rajshahi,9,32,Deal 5,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,668.62,3099.38,0.0,0.0,590.25,3689.62,Stayed,Not Applicable,Not Applicable
-21857-CTG,Female,30,Yes,Chattogram,5,30,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,780.0,54376.12,0.0,0.0,6399.75,60775.88,Churned,Attitude,Attitude of service provider
 33472-BAR,Female,77,No,Barishal,0,16,No Deal,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,553.88,1473.0,0.0,0.0,1049.62,2522.62,Joined,Not Applicable,Not Applicable
 49273-KHU,Female,45,Yes,Khulna,11,15,Deal 5,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,No,Mobile Banking (bKash/Nagad),446.25,978.75,0.0,0.0,638.25,1617.0,Joined,Not Applicable,Not Applicable
 91505-BAR,Female,35,No,Barishal,7,26,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,330.75,330.75,0.0,0.0,33.08,363.82,Churned,Competitor,Competitor made better offer
@@ -4086,7 +4077,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 76324-DHK,Male,27,Yes,Dhaka,8,11,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,673.88,23709.0,0.0,150.0,6517.88,30376.88,Stayed,Not Applicable,Not Applicable
 69232-CTG,Male,49,No,Chattogram,6,5,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,707.62,41727.38,0.0,0.0,2179.35,43906.72,Stayed,Not Applicable,Not Applicable
 75095-KHU,Female,68,No,Khulna,7,3,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,712.88,36665.25,0.0,375.0,11835.0,48875.25,Churned,Price,Price too high
-71949-CTG,Female,23,No,Chattogram,11,5,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,634.5,8364.0,0.0,0.0,3506.1,11870.1,Churned,Competitor,Competitor offered more data
 53438-SYL,Female,58,No,Sylhet,0,5,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,148.12,11752.5,194.85,0.0,8213.4,19771.05,Stayed,Not Applicable,Not Applicable
 52814-DHK,Female,57,Yes,Dhaka,0,14,Deal 2,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,613.5,34008.38,0.0,0.0,20731.2,54739.57,Stayed,Not Applicable,Not Applicable
 85558-RAN,Female,38,Yes,Rangpur,13,13,No Deal,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,525.38,4931.25,0.0,0.0,3256.88,8188.12,Stayed,Not Applicable,Not Applicable
@@ -4113,7 +4103,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 76732-DHK,Female,30,Yes,Dhaka,0,18,No Deal,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,595.12,595.12,0.0,0.0,98.48,693.6,Churned,Competitor,Competitor had better devices
 97360-CTG,Male,43,Yes,Chattogram,10,23,Deal 2,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,551.62,35730.0,164.25,0.0,23236.8,58802.55,Stayed,Not Applicable,Not Applicable
 99017-KHU,Female,21,No,Khulna,5,3,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,No,Month-to-Month,No,Credit Card,672.38,13207.88,0.0,600.0,3093.68,16901.55,Churned,Attitude,Attitude of support person
-62467-MYM,Female,33,Yes,Mymensingh,6,10,No Deal,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,783.0,8110.88,0.0,0.0,628.5,8739.38,Churned,Competitor,Competitor made better offer
 84107-DHK,Male,32,No,Dhaka,0,6,No Deal,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,546.0,6975.38,0.0,0.0,1342.57,8317.95,Stayed,Not Applicable,Not Applicable
 33065-CTG,Male,37,Yes,Chattogram,14,28,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,151.88,6487.5,350.85,0.0,2032.57,8169.23,Stayed,Not Applicable,Not Applicable
 55869-MYM,Male,49,No,Mymensingh,9,36,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,571.88,5136.38,0.0,0.0,2345.62,7482.0,Stayed,Not Applicable,Not Applicable
@@ -4234,7 +4223,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 12443-RAJ,Female,48,Yes,Rajshahi,15,9,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,-52.5,601.12,0.0,0.0,35.02,636.15,Churned,Attitude,Attitude of support person
 83399-DHK,Female,43,Yes,Dhaka,5,24,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,663.38,10665.75,0.0,1050.0,2136.0,13851.75,Churned,Other,Don't know
 85731-DHK,Female,51,No,Dhaka,12,14,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,511.13,36065.25,0.0,0.0,9347.4,45412.65,Stayed,Not Applicable,Not Applicable
-28976-BAR,Female,64,No,Barishal,0,18,No Deal,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,741.38,23172.0,0.0,0.0,5769.6,28941.6,Stayed,Not Applicable,Not Applicable
 68497-BAR,Female,25,No,Barishal,5,16,Deal 3,Yes,No,Yes,Mobile Broadband,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Credit Card,594.0,21412.12,0.0,300.0,11477.7,33189.83,Stayed,Not Applicable,Not Applicable
 68341-DHK,Female,46,Yes,Dhaka,2,30,Deal 1,Yes,No,Yes,Mobile Broadband,Yes,No,Yes,No,No,No,No,Yes,One Year,Yes,Credit Card,408.38,27562.12,0.0,0.0,8879.1,36441.22,Stayed,Not Applicable,Not Applicable
 76852-BAR,Male,53,No,Barishal,14,28,No Deal,Yes,Yes,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,186.75,11966.25,0.0,0.0,9230.4,21196.65,Stayed,Not Applicable,Not Applicable
@@ -4322,7 +4310,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 89683-DHK,Female,71,Yes,Dhaka,2,33,No Deal,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,745.88,6895.5,0.0,0.0,719.55,7615.05,Churned,Competitor,Competitor had better devices
 23224-SYL,Female,80,No,Sylhet,2,21,No Deal,No,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,328.88,20632.5,0.0,225.0,0.0,20857.5,Stayed,Not Applicable,Not Applicable
 66278-CTG,Female,44,Yes,Chattogram,2,1,Deal 2,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,747.75,47478.0,0.0,0.0,12667.73,60145.73,Stayed,Not Applicable,Not Applicable
-36981-RAN,Male,44,Yes,Rangpur,7,35,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,717.75,35473.12,0.0,1050.0,18427.5,54950.62,Stayed,Not Applicable,Not Applicable
 19700-CTG,Female,29,No,Chattogram,2,33,No Deal,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,No,No,No,No,Month-to-Month,No,Bank Withdrawal,413.62,9045.38,0.0,225.0,867.9,10138.27,Churned,Dissatisfaction,Service dissatisfaction
 58919-RAN,Male,49,Yes,Rangpur,7,28,Deal 4,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,747.75,11750.62,0.0,0.0,1138.5,12889.12,Stayed,Not Applicable,Not Applicable
 44887-RAJ,Male,61,Yes,Rajshahi,14,19,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,147.0,8779.12,0.0,0.0,2441.03,11220.15,Stayed,Not Applicable,Not Applicable
@@ -4736,7 +4723,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 24823-KHU,Male,40,Yes,Khulna,14,6,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,680.25,41898.38,0.0,0.0,8788.5,50686.88,Stayed,Not Applicable,Not Applicable
 45398-RAN,Female,39,No,Rangpur,15,29,Deal 1,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,No,Two Year,No,Bank Withdrawal,737.25,51446.25,0.0,150.0,15534.75,67131.0,Churned,Competitor,Competitor had better devices
 82065-RAN,Female,73,Yes,Rangpur,6,32,Deal 1,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,One Year,No,Credit Card,784.5,51145.88,0.0,0.0,12627.45,63773.33,Stayed,Not Applicable,Not Applicable
-78303-RAJ,Female,35,No,Rajshahi,13,35,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,799.5,48213.0,0.0,0.0,18862.73,67075.73,Churned,Competitor,Competitor offered more data
 61783-KHU,Female,64,No,Khulna,14,31,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,146.25,801.0,0.0,0.0,91.35,892.35,Stayed,Not Applicable,Not Applicable
 78881-RAN,Female,46,Yes,Rangpur,13,9,Deal 3,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,786.38,29154.38,0.0,0.0,1236.9,30391.28,Stayed,Not Applicable,Not Applicable
 83519-BAR,Female,53,No,Barishal,6,17,Deal 2,No,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,One Year,No,Credit Card,297.38,13489.88,0.0,0.0,0.0,13489.88,Stayed,Not Applicable,Not Applicable
@@ -4898,7 +4884,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 12660-RAJ,Female,58,No,Rajshahi,10,17,No Deal,No,No,Yes,Mobile Broadband,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,188.25,5346.38,0.0,0.0,0.0,5346.38,Churned,Competitor,Competitor offered higher download speeds
 93819-MYM,Male,75,Yes,Mymensingh,5,15,No Deal,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,No,Yes,Yes,Yes,One Year,No,Bank Withdrawal,675.75,19925.25,0.0,0.0,6966.52,26891.78,Stayed,Not Applicable,Not Applicable
 79129-KHU,Female,40,No,Khulna,15,1,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,863.25,52561.12,0.0,0.0,9154.57,61715.7,Stayed,Not Applicable,Not Applicable
-83939-RAJ,Female,42,No,Rajshahi,8,27,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,150.75,323.62,0.0,0.0,492.9,816.53,Joined,Not Applicable,Not Applicable
 38589-SYL,Male,40,Yes,Sylhet,15,2,Deal 2,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,448.5,25930.88,262.57,0.0,9550.8,35219.1,Stayed,Not Applicable,Not Applicable
 35430-MYM,Female,56,No,Mymensingh,15,3,Deal 4,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Credit Card,587.25,7754.62,0.0,1125.0,3113.17,11992.8,Stayed,Not Applicable,Not Applicable
 98687-KHU,Female,61,Yes,Khulna,11,9,No Deal,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Two Year,No,Credit Card,566.25,4780.5,0.0,0.0,1684.8,6465.3,Stayed,Not Applicable,Not Applicable
@@ -4977,7 +4962,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 44243-RAJ,Male,53,Yes,Rajshahi,0,11,No Deal,Yes,Yes,Yes,Mobile Broadband,Yes,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,403.5,2129.62,0.0,75.0,1852.5,4057.13,Stayed,Not Applicable,Not Applicable
 46868-RAN,Male,63,No,Rangpur,2,31,Deal 3,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,592.12,19854.0,0.0,0.0,902.7,20756.7,Stayed,Not Applicable,Not Applicable
 84798-BAR,Female,59,No,Barishal,1,6,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,600.38,10092.38,0.0,0.0,5732.4,15824.77,Stayed,Not Applicable,Not Applicable
-34319-DHK,Female,82,Yes,Dhaka,3,17,No Deal,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,409.12,6188.25,0.0,0.0,4263.6,10451.85,Stayed,Not Applicable,Not Applicable
 91670-DHK,Female,75,Yes,Dhaka,10,32,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,568.12,4546.88,0.0,0.0,828.0,5374.88,Churned,Competitor,Competitor offered more data
 87963-DHK,Male,27,No,Dhaka,4,10,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,835.88,39863.25,0.0,0.0,8049.6,47912.85,Stayed,Not Applicable,Not Applicable
 79427-CTG,Female,50,Yes,Chattogram,10,1,Deal 2,No,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,448.88,26926.5,0.0,0.0,0.0,26926.5,Stayed,Not Applicable,Not Applicable
@@ -5102,7 +5086,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 31294-KHU,Male,50,Yes,Khulna,15,33,Deal 5,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,373.12,373.12,0.0,0.0,313.43,686.55,Joined,Not Applicable,Not Applicable
 73510-DHK,Female,47,Yes,Dhaka,2,14,No Deal,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,615.0,1384.88,0.0,0.0,617.7,2002.57,Churned,Competitor,Competitor made better offer
 68150-RAJ,Male,25,Yes,Rajshahi,12,15,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,755.62,9849.38,0.0,900.0,4331.93,15081.3,Stayed,Not Applicable,Not Applicable
-57496-RAJ,Female,58,Yes,Rajshahi,3,30,Deal 1,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Credit Card,814.5,57681.75,0.0,150.0,3067.2,60898.95,Churned,Dissatisfaction,Product dissatisfaction
 15051-KHU,Female,37,Yes,Khulna,14,24,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,444.38,3274.5,0.0,0.0,2892.0,6166.5,Stayed,Not Applicable,Not Applicable
 53498-KHU,Male,41,No,Khulna,3,18,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,147.0,3083.62,0.0,0.0,2955.0,6038.62,Stayed,Not Applicable,Not Applicable
 34788-RAJ,Female,39,No,Rajshahi,4,15,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,153.75,5226.0,0.0,0.0,4065.6,9291.6,Stayed,Not Applicable,Not Applicable
@@ -5544,7 +5527,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 27607-KHU,Female,18,Yes,Khulna,0,8,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,497.25,11695.88,244.43,0.0,1674.0,13125.45,Stayed,Not Applicable,Not Applicable
 84726-CTG,Female,42,Yes,Chattogram,2,4,No Deal,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,663.0,43487.25,0.0,0.0,18894.0,62381.25,Stayed,Not Applicable,Not Applicable
 86082-CTG,Male,34,No,Chattogram,9,28,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,408.75,4261.5,0.0,0.0,2548.5,6810.0,Stayed,Not Applicable,Not Applicable
-35391-DHK,Male,23,No,Dhaka,15,5,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,No,Bank Withdrawal,530.25,4150.5,0.0,0.0,2515.8,6666.3,Stayed,Not Applicable,Not Applicable
 62381-RAJ,Female,25,No,Rajshahi,8,5,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mobile Banking (bKash/Nagad),142.12,826.12,0.0,0.0,1239.3,2065.42,Stayed,Not Applicable,Not Applicable
 77268-DHK,Female,58,No,Dhaka,1,35,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,730.12,15896.25,0.0,0.0,1426.95,17323.2,Churned,Other,Moved
 23476-DHK,Male,28,Yes,Dhaka,9,30,Deal 2,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,149.25,9694.5,0.0,0.0,8809.12,18503.62,Stayed,Not Applicable,Not Applicable
@@ -5645,7 +5627,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 18571-RAN,Female,48,No,Rangpur,12,27,Deal 4,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,339.38,3215.25,336.75,0.0,266.25,3144.75,Stayed,Not Applicable,Not Applicable
 21598-BAR,Male,61,Yes,Barishal,7,11,Deal 4,Yes,No,Yes,Mobile Broadband,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,421.5,8200.5,0.0,0.0,5731.35,13931.85,Stayed,Not Applicable,Not Applicable
 59564-BAR,Female,62,Yes,Barishal,14,1,No Deal,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,575.62,34064.25,0.0,0.0,7053.45,41117.7,Stayed,Not Applicable,Not Applicable
-78859-DHK,Male,62,No,Dhaka,15,29,Deal 2,Yes,No,Yes,Mobile Broadband,Yes,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,524.25,29124.75,0.0,0.0,11186.1,40310.85,Stayed,Not Applicable,Not Applicable
 11290-SYL,Female,70,Yes,Sylhet,0,36,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,715.88,2970.75,0.0,0.0,948.3,3919.05,Churned,Competitor,Competitor made better offer
 35452-RAJ,Female,58,Yes,Rajshahi,12,24,No Deal,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,189.38,8311.5,0.0,0.0,10593.45,18904.95,Stayed,Not Applicable,Not Applicable
 96000-KHU,Male,47,No,Khulna,9,19,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,838.5,40827.38,0.0,0.0,4525.2,45352.58,Stayed,Not Applicable,Not Applicable
@@ -5920,7 +5901,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 13373-KHU,Female,26,Yes,Khulna,1,31,Deal 1,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,156.0,11409.0,0.0,0.0,12652.2,24061.2,Stayed,Not Applicable,Not Applicable
 97589-DHK,Female,67,Yes,Dhaka,11,21,Deal 3,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,725.62,25525.5,0.0,975.0,10465.88,36966.38,Stayed,Not Applicable,Not Applicable
 19886-RAN,Male,25,Yes,Rangpur,15,13,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,478.88,31984.5,0.0,0.0,3796.65,35781.15,Stayed,Not Applicable,Not Applicable
-44388-SYL,Male,38,Yes,Sylhet,1,27,Deal 2,Yes,Yes,Yes,Mobile Broadband,No,Yes,Yes,No,No,Yes,Yes,Yes,One Year,Yes,Credit Card,529.12,25653.75,0.0,0.0,13975.2,39628.95,Stayed,Not Applicable,Not Applicable
 34711-RAN,Female,84,No,Rangpur,14,13,No Deal,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,783.75,38010.38,0.0,0.0,4824.0,42834.38,Stayed,Not Applicable,Not Applicable
 12170-RAJ,Female,38,Yes,Rajshahi,15,2,Deal 4,Yes,Yes,Yes,Mobile Broadband,Yes,Yes,No,Yes,Yes,No,No,No,One Year,No,Mobile Banking (bKash/Nagad),581.25,12187.5,137.93,600.0,2767.28,15416.85,Churned,Other,Don't know
 87704-RAN,Female,38,Yes,Rangpur,9,24,Deal 5,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,153.38,153.38,0.0,0.0,328.65,482.02,Joined,Not Applicable,Not Applicable
@@ -6146,7 +6126,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 93519-SYL,Female,36,Yes,Sylhet,3,5,Deal 3,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,792.75,22346.25,0.0,600.0,6400.8,29347.05,Churned,Dissatisfaction,Service dissatisfaction
 64961-SYL,Female,54,Yes,Sylhet,10,7,No Deal,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,863.25,55005.38,0.0,0.0,21268.8,76274.17,Stayed,Not Applicable,Not Applicable
 96905-CTG,Female,56,No,Chattogram,8,25,No Deal,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,Yes,One Year,Yes,Credit Card,452.62,21723.0,0.0,0.0,12207.6,33930.6,Churned,Dissatisfaction,Poor expertise of phone support
-14486-BAR,Female,30,Yes,Barishal,14,19,Deal 1,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,676.5,47232.38,0.0,0.0,1739.1,48971.47,Stayed,Not Applicable,Not Applicable
 83137-CTG,Female,40,Yes,Chattogram,0,8,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,553.88,3009.75,0.0,0.0,1246.05,4255.8,Stayed,Not Applicable,Not Applicable
 79288-RAJ,Male,36,No,Rajshahi,7,14,Deal 3,Yes,No,No,None,No,No,No,No,No,No,No,No,One Year,No,Credit Card,143.25,3971.25,0.0,0.0,10770.6,14741.85,Stayed,Not Applicable,Not Applicable
 31354-RAN,Female,69,No,Rangpur,1,16,No Deal,Yes,Yes,No,None,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,189.0,7409.62,0.0,0.0,5993.32,13402.95,Stayed,Not Applicable,Not Applicable
@@ -6189,7 +6168,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 45226-DHK,Male,68,No,Dhaka,12,12,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Two Year,No,Mobile Banking (bKash/Nagad),145.12,6504.75,0.0,0.0,10813.95,17318.7,Stayed,Not Applicable,Not Applicable
 21645-RAN,Female,29,Yes,Rangpur,13,31,No Deal,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Credit Card,419.62,8121.0,0.0,0.0,2493.45,10614.45,Stayed,Not Applicable,Not Applicable
 74542-CTG,Female,42,No,Chattogram,4,7,No Deal,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,624.75,6024.75,0.0,0.0,2004.75,8029.5,Churned,Attitude,Attitude of support person
-78945-RAJ,Female,35,No,Rajshahi,8,27,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,Yes,One Year,No,Credit Card,575.62,39249.38,0.0,0.0,10347.9,49597.28,Stayed,Not Applicable,Not Applicable
 83102-CTG,Female,45,Yes,Chattogram,9,31,No Deal,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,634.5,634.5,0.0,0.0,201.38,835.88,Churned,Dissatisfaction,Poor expertise of phone support
 54563-CTG,Female,38,Yes,Chattogram,2,14,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,798.0,38459.62,0.0,0.0,12679.42,51139.05,Churned,Competitor,Competitor had better devices
 91827-DHK,Female,31,Yes,Dhaka,1,6,No Deal,Yes,No,No,None,No,No,No,No,No,No,No,No,Month-to-Month,No,Mobile Banking (bKash/Nagad),153.38,1915.12,0.0,0.0,3699.9,5615.02,Stayed,Not Applicable,Not Applicable

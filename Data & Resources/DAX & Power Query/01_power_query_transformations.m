@@ -7,7 +7,7 @@ Churn Status = if [Customer_Status] = "Churned" then 1 else 0
 // -> Change Churn Status data type to numbers
 
 // 2. Add Monthly Charge Range column
-Monthly Charge Range = if [Monthly_Charge] < 20 then "< 20" else if [Monthly_Charge] < 50 then "20-50" else if [Monthly_Charge] < 100 then "50-100" else "> 100"
+Monthly Charge Range = if [Monthly_Charge] < 250 then "< 250" else if [Monthly_Charge] < 500 then "250-500" else if [Monthly_Charge] < 700 then "500-700" else "> 700"
 
 // --------------------------------------------------------
 // 3. Create a New Table Reference for mapping_AgeGrp

@@ -2,11 +2,11 @@
 // DAX Measures for Summary Page
 // --------------------------------------------------------
 
-Total Customers = COUNT(prod_Churn[Customer_ID])
+Total Customers = COUNT('bd_churn customer_data'[Customer_ID])
 
-New Joiners = CALCULATE(COUNT(prod_Churn[Customer_ID]), prod_Churn[Customer_Status] = "Joined")
+New Joiners = CALCULATE(COUNT('bd_churn customer_data'[Customer_ID]), 'bd_churn customer_data'[Customer_Status] = "Joined")
 
-Total Churn = SUM(prod_Churn[Churn Status])
+Total Churn = SUM('bd_churn customer_data'[Churn Status])
 
 Churn Rate = [Total Churn] / [Total Customers]
 
